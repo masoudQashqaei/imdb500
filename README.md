@@ -1,3 +1,3 @@
 # imdb500
 
-a python crawler that get the datas for best 500 movies according to imdb in an excel format
+A Python Crawler That Gets The Datas For Best 500 Movies According To IMDB In An Excel Format
